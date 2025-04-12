@@ -62,6 +62,7 @@ public class Main {
         // Задача №5
         System.out.println("\nЗадача №5");
         int  childAge;
+        System.out.println("Введите возраст ребёнка");
         childAge = scan.nextInt();
         if (childAge < 5)
         {
